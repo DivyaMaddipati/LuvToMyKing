@@ -39,6 +39,7 @@ const LoveLetter = () => {
         <br />I loveeee youuuu My KING....Kanna Bujji Bangaram :)<br />
          Miss u so much Darlingggg<br />
          Loads of love and affection,<br />
+          You are absolutely precious bangaram <br />
         - Divya
       </div>
       <audio ref={audioRef} src={audioFile} onError={(e) => console.error('Audio error:', e.message)} />
