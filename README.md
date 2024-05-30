@@ -1,4 +1,4 @@
-# Propose your GF/BF using React Love Letter
+# Proposal using React Love Letter
 
 Developed by Divya Maddipati
 
